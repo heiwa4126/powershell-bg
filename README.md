@@ -6,6 +6,8 @@ bashで `a; b & c & d ; e` みたいのをPowershellでやるサンプル。
 - Windows10上のPowershell 5,7
 - Linux上のPowershell 7
 
+`doit.sh` と `doit.ps1`を比較してみてください。
+
 # 実行
 
 ## bash版
@@ -14,7 +16,7 @@ bashで `a; b & c & d ; e` みたいのをPowershellでやるサンプル。
 ./init.sh ; ./doit.sh
 ```
 
-## powershell版
+## Powershell版
 
 Windows上でPowershell 6以上の場合
 ```pwsh
