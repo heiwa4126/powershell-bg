@@ -1,6 +1,6 @@
 # powershell-bg
 
-bashで `a; b & c & d ; e` みたいのをPowrshellでやるサンプル。
+bashで `a; b & c & d ; e` みたいのをPowershellでやるサンプル。
 
 
 # 実行
