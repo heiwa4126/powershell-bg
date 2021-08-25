@@ -27,4 +27,5 @@ pwsh .\doit.ps1
 
 - [Powershell equivalent of bash ampersand (&) for forking/running background processes - Stack Overflow](https://stackoverflow.com/questions/185575/powershell-equivalent-of-bash-ampersand-for-forking-running-background-proce)
 - [Start\-Job \(Microsoft\.PowerShell\.Core\) \- PowerShell \| Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Core/Start-Job?view=powershell-7.1)
+- [Remove\-Job \(Microsoft\.PowerShell\.Core\) \- PowerShell \| Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/remove-job?view=powershell-7.1)
 - [Job Control \(Bash Reference Manual\)](https://www.gnu.org/software/bash/manual/html_node/Job-Control.html#Job-Control)
