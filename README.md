@@ -40,3 +40,8 @@ pwsh .\doit.ps1
 上の方がStart-Jobのオプションつけられる利点が。
 
 Receive-Jobで-Keepをつけなければ Remove-Job は不要。
+
+Receive-Jobで-Nameじゃなくて-Jobにすれば $job.Nameはいらない(しかもデフォルトオプション)。以下の3つは同じ。
+- `Receive-Job -Name $job1.Name`
+- `Receive-Job -Job $job1`
+- `Receive-Job $job1`
