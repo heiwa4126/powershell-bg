@@ -8,4 +8,5 @@ Get-Job | Wait-Job | Out-Null
 Receive-Job -Name $job1.Name -Keep
 Receive-Job -Name $job2.Name -Keep
 Receive-Job -Name $job3.Name -Keep
+Get-Job | Remove-Job
 Get-Content 0
